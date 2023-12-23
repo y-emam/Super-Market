@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "05de92ad-e253-40c5-8f0a-9fb39d467b3d": {
+      "ProjectGuid": "05de92ad-e253-40c5-8f0a-9fb39d467b3d",
+      "DisplayName": "Super Market",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

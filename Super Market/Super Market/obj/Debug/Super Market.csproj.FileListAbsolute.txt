@@ -1,0 +1,96 @@
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\bin\Debug\Super Market.exe.config
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\bin\Debug\Super Market.exe
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\bin\Debug\Super Market.pdb
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super Market.csproj.AssemblyReference.cache
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super Market.csproj.SuggestedBindingRedirects.cache
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form1.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form2.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super Market.csproj.GenerateResource.cache
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super Market.csproj.CoreCompileInputs.cache
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super Market.exe
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super Market.pdb
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form3.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form4.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form5.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form6.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form7.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form8.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form10.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form9.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form11.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form12.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form13.resources
+D:\FCI\Second year\Second trem\Data Base\proojects\Super Market\Super Market\obj\Debug\Super_Market.Form15.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\Saad\Desktop\super\Super Market\Super Market\bin\Debug\Super Market.exe
+C:\Users\Saad\Desktop\super\Super Market\Super Market\bin\Debug\Super Market.pdb
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super Market.csproj.AssemblyReference.cache
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super Market.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form1.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form10.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form11.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form12.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form13.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form15.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form2.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form3.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form4.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form5.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form6.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form7.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form8.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Form9.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super Market.csproj.GenerateResource.cache
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super Market.csproj.CoreCompileInputs.cache
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super Market.exe
+C:\Users\Saad\Desktop\super\Super Market\Super Market\obj\Debug\Super Market.pdb
+C:\Users\Saad\Desktop\Super Market\Super Market\bin\Debug\Super Market.exe.config
+C:\Users\Saad\Desktop\Super Market\Super Market\bin\Debug\Super Market.exe
+C:\Users\Saad\Desktop\Super Market\Super Market\bin\Debug\Super Market.pdb
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super Market.csproj.AssemblyReference.cache
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super Market.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form1.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form10.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form11.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form12.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form13.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form15.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form2.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form3.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form4.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form5.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form6.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form7.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form8.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Form9.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super Market.csproj.GenerateResource.cache
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super Market.csproj.CoreCompileInputs.cache
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super Market.exe
+C:\Users\Saad\Desktop\Super Market\Super Market\obj\Debug\Super Market.pdb
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\bin\Debug\Super Market.exe.config
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\bin\Debug\Super Market.exe
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\bin\Debug\Super Market.pdb
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super Market.csproj.AssemblyReference.cache
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super Market.csproj.SuggestedBindingRedirects.cache
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form1.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form10.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form11.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form12.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form13.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form15.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form2.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form3.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form4.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form5.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form6.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form7.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form8.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Form9.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super_Market.Properties.Resources.resources
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super Market.csproj.GenerateResource.cache
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super Market.csproj.CoreCompileInputs.cache
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super Market.exe
+D:\FCAI\project DB\20200221_8\20200221_8\Super Market\Super Market\obj\Debug\Super Market.pdb
